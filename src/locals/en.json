@@ -1,0 +1,23 @@
+
+
+{
+    "header": {
+      "title": "Welcome to My Website",
+      "subtitle": "Learn and Grow"
+    },
+    "navbar": {
+      "home": "Home",
+      "about": "About",
+      "services": "Services",
+      "contact": "Contact"
+    },
+    "footer": {
+      "text": "© 2024 My Website. All rights reserved."
+    },
+    "herro": {
+        "text": "Receive guidance on digital strategy, direct access to design and development experts, and a platform that’s successfully launched over 100+ apps, websites, and social campaigns globally",
+        "serviceBtn": "Explore Our Services",
+        "getBtn": "Get Started Today"
+    }
+  }
+  
