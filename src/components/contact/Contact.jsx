@@ -259,7 +259,6 @@ const Contact = () => {
       <Achievement />
       <Review />
       <Card />
-      <Footer />
     </>
   );
 }
